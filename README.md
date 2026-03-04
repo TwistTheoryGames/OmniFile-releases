@@ -121,8 +121,9 @@ Or visit the [Releases](https://github.com/TwistTheoryGames/OmniFile-releases/re
 
 - 🌐 Website: [omnifile.app](https://omnifile.app)
 - 📖 User Guide: [omnifile.app/guide](https://omnifile.app/guide)
+- 💬 Q&A: [GitHub Discussions](https://github.com/TwistTheoryGames/OmniFile-releases/discussions)
+- 🐛 Bug Reports: [GitHub Issues](https://github.com/TwistTheoryGames/OmniFile-releases/issues)
 - 📧 Email: [support@devtoolshq.net](mailto:support@devtoolshq.net)
-- 🐛 Issues: [GitHub Issues](https://github.com/TwistTheoryGames/OmniFile-releases/issues)
 
 ## License
 
