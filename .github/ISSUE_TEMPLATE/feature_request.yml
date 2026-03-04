@@ -1,0 +1,37 @@
+name: Feature Request
+description: Suggest a new feature for OmniFile
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: What problem does this solve?
+      description: Describe the problem or limitation you're facing
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Proposed solution
+      description: How would you like this to work?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Use case
+      description: Describe a real scenario where this would help
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Which area?
+      options:
+        - Local file search
+        - Cloud integrations
+        - New cloud service
+        - Workspaces
+        - File preview
+        - Keyboard shortcuts
+        - Performance
+        - UI/UX
+        - Other
+    validations:
+      required: true
